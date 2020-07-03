@@ -17,4 +17,4 @@ $ Feature Engg and Data Modelling
 
 $ Building Predictive models
 use sklearn or tensorflow
-
+If possible lets build a web-app using flask or django
