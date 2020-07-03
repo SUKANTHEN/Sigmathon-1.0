@@ -1,0 +1,19 @@
+$ Data Quality Assesment
+1) Missing or Nan values 
+2) Number of Categorical features, Ordinal, Numerical features
+3) Handling Missing values
+4) Data Uniqueness
+
+$ Exploratory Data Analysis
+1) Feature Analysis
+2) Statistical Analysis
+2) Data Visualization
+3) Insighs Derivation
+
+$ Feature Engg and Data Modelling
+1) Dependent and Independent variable identification
+2) Feature Importance 
+3) Pipeline Building and other Scaling and Normalizing techniques
+
+$ Building Predictive models
+
