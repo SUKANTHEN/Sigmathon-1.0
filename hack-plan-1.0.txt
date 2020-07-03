@@ -16,4 +16,5 @@ $ Feature Engg and Data Modelling
 3) Pipeline Building and other Scaling and Normalizing techniques
 
 $ Building Predictive models
+use sklearn or tensorflow
 
