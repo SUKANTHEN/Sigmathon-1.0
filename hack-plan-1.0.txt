@@ -16,5 +16,8 @@ $ Feature Engg and Data Modelling
 3) Pipeline Building and other Scaling and Normalizing techniques
 
 $ Building Predictive models
-use sklearn or tensorflow
-If possible lets build a web-app using flask or django
+Target features: 
+1) Days of shiiping(real)
+2) Benefit of order
+3) Order Profit Per Order
+4) Late delivery risk
